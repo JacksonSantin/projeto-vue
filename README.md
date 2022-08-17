@@ -65,7 +65,7 @@ A seguinte ferramenta foi usada na construção do projeto:
 ---
 
 
-Feito com ❤️ por Jackson Dhanyel Santin 👋🏽 [Entre em contato!]([removido])
+Feito com ❤️ por Jackson Dhanyel Santin 👋🏽 [Entre em contato!](https://jdssistemas.com)
 
 Consulte informações sobre a licença do projeto [MIT](https://github.com/JacksonSantin/projeto-vue/blob/master/LICENSE).
 
